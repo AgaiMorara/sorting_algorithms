@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- *swap: swaps postions of two types
+ *swap - swaps postions of two types
  *@array: the list to swap
  *@pos1: first position
  *@pos2: second position
